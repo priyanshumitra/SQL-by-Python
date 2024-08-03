@@ -1,7 +1,5 @@
 # SQL-by-Python
 
-# SQL-by-Python
-
 Hello Everyone, This is my first ever repository in GitHub to start my journey with @github. So, my repository is related to SQL by python and yeah just like as their work also as their repository name. This is about the basic fundamentals and operations of SQL which is performed by Python.
 
 There are Total 10 Program files which are related to basic operations with SQL and 1 another file which is related to the Small SQL project like that.
@@ -16,16 +14,27 @@ For connect MySQL to VScode,
 
 Let's Start to learn basic SQL operations by Python as python files, 
 
-prog1.py :- Program to connect the Python to MySQL database     
-prog2.py :- Program to create Database 
+
+prog1.py :- Program to connect the Python to MySQL database   
+
+prog2.py :- Program to create Database
+
 prog3.py :- Program to create the Table in Database 
+
 prog4.py :- Program to print all databases in MySQL and Tables in their databases 
+
 prog5.py :- Program to insert the data in table of database  
+
 prog6.py :- Program to insert multiple data in table of database at a time 
+
 prog7.py :- Program to print all the data from table of database  
+
 prog8.py :- Program to update the data of table of database and print it also 
+
 prog9.py :- Program to delete the data from table of database  
-prog10.py :- Program to delete all data from table of database     
+
+prog10.py :- Program to delete all data from table of database    
+
 prog11.py :- Program to fetch the data related to company(DB) and do other operations with their database(company)                                                                                                                          
   
 Hope, It'll help to all of you to easily understanding about "SQL by Python".
