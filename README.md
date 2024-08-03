@@ -9,6 +9,7 @@ There are Total 10 Program files which are related to basic operations with SQL 
 Firstly If you want to run SQL by python then you have to install any SQL application like MySQL, oracle, Microsoft sql etc. But I would prefer you that you should install MySQL for easy to understand about SQL. So, install SQL application firstly then connect to the VScode(I prefer you to run VScode editor for better performance and easy to understand their functionality).
 
 For connect MySQL to VScode,
+
 1.Goto cmd                                                                                                                               
 2. type "pip install mysql-connector-python"(Your VScode has python extension so)                                                        
 3.After that, your MySQL will successfully connect with your VScode.
@@ -16,9 +17,7 @@ For connect MySQL to VScode,
 Let's Start to learn basic SQL operations by Python as python files, 
 
 prog1.py :- Program to connect the Python to MySQL database     
-
 prog2.py :- Program to create Database 
-
 prog3.py :- Program to create the Table in Database 
 prog4.py :- Program to print all databases in MySQL and Tables in their databases 
 prog5.py :- Program to insert the data in table of database  
@@ -30,6 +29,7 @@ prog10.py :- Program to delete all data from table of database
 prog11.py :- Program to fetch the data related to company(DB) and do other operations with their database(company)                                                                                                                          
   
 Hope, It'll help to all of you to easily understanding about "SQL by Python".
+
 If you have any questions please let me know.
 
 Thank You.......
