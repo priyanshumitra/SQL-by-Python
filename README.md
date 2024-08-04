@@ -2,7 +2,7 @@
 
 Hello Everyone, This is my first ever repository in GitHub to start my journey with @github. So, my repository is related to SQL by python and yeah just like as their work also as their repository name. This is about the basic fundamentals and operations of SQL which is performed by Python.
 
-There are Total 10 Program files which are related to basic operations with SQL and 1 another file which is related to the Small SQL project like that.
+There are Total 10 Program files which are related to basic operations with SQL and 1 another file which is related to the Small SQL project like that. I also attached the comments with each line of code for which purpose, how it works and vice versa. I do that with every program of files for better understandable. 
 
 Firstly If you want to run SQL by python then you have to install any SQL application like MySQL, oracle, Microsoft sql etc. But I would prefer you that you should install MySQL for easy to understand about SQL. So, install SQL application firstly then connect to the VScode(I prefer you to run VScode editor for better performance and easy to understand their functionality).
 
